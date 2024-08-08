@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/aa1555/aa1555.github.io/main/dist/logo.ico" height="38" width="38">一个在线思维导图制作工具</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/aa1555/aa1555.github.io/main/logo.ico" height="38" width="38">一个在线思维导图制作工具</h1>
 
 ## 在线使用：
 
